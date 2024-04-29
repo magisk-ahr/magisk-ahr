@@ -10,7 +10,7 @@
 
 #EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", Shurongo HD
 
-https://api.nayeem-parvez.pw/jclive/master.m3u8?id=hd_akamai_androidmob_avc_ben_ipl_s1_m1300324&uid=2109774
+https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 
 
 
@@ -57,18 +57,16 @@ https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", BTV
 
-http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193145934_4.png&w=3840&q=75", BTV World
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg", BTV World
 
 
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-http://tv.bdrisworld.xyz:8880/live/Tahmid567/Tahmid@5678/1302.ts
+https://jiu.top10bhaluka.com/ki/bongo/stream.php?id=75
 
 
 
@@ -81,9 +79,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://i.postimg.cc/J7TH7nQY/1200px-Sangsad-Television-Emblem-svg.png", Sangsad TV
 
-http://stream.medialink24.net:9191/sangsad-tv/index.m3u8?token=99242e4a1c791cf46de44abb5a2557da24bd84cd-0a1cf4c2b2fe86a7e4d4b10ec7c72e0f-1683493501-1683482701
+http://xtv.ooo:8080/564587696/474585694/245940
 
 
 
@@ -94,6 +92,14 @@ http://stream.medialink24.net:9191/sangsad-tv/index.m3u8?token=99242e4a1c791cf46
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPdv7FcfbmUOUIKieC0yaZTX28xc4PGo2b3Xk8bSA=s100-c-k-c0x00ffffff-no-rj", Alpona TV
 
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://i.postimg.cc/D0LG3rhW/Apon-TV.jpg", Apon TV
+
+http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100703
 
 
 
@@ -118,7 +124,9 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-1/206069156_189801126487780_1526256997542176939_n.jpg?stp=c0.5000x0.5000f_dst-jpg_e15_p390x390_q60_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_rml=0&_nc_ht=scontent.fdac24-1.fna&_nc_cat=1&_nc_ohc=Kzjdf4ByuHkAX9e7HLJ&ccb=1-7&_nc_sid=dbb9e7&oh=00_AfDeELK6VDkBDrCRbwnD4nwP06qWWW3FRMhGhd6Ep1DUWw&oe=6530DDBC", ATN Bangla
 
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 
 
@@ -127,7 +135,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.mawbiz.com.bd/application/views/module/logo_image/ATN_Islamic_TV1.png", ATN Islamic
 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 
 
 
@@ -316,7 +326,9 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/deeptotv.png", Deepto TV
 
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
@@ -974,21 +986,21 @@ https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/National-geographic-Channel-300x156.jpg", Nat Geo (Bangla)
 
-https://cdn2.aliflailabd.com/natgeo-in/index.m3u8?token=ecfb8b8a4155f291a813d8d3aba124de563f52dc-b07bfbddfc66667b65d1aea1e65e261d-1695229049-1695225449
+http://stream.medialink24.net:9191/Nat-Geo-HD/video.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdxKXaCY--KypcvvzQkzYcbHrD9HP4RWQUjA&usqp=CAU",Travel XP (Bangla)
 
-http://stream.medialink24.net:9191/travel-xp/index.m3u8?token=656847ed765396c7f960c657502f5304d9ed9a12-2951aa1f5a32432787aca07917f82416-1695067229-1695056429
+http://stream.medialink24.net:9191/travel-xp/video.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",Nat Geo Wild
 
-http://stream.medialink24.net:9191/natgeo-wild/tracks-v1a1/mono.m3u8?token=15c826b9c71f9cf7d73375c43b3c4d0dd562794c-10bb5fc94cc2beda210f3205e588398a-1695067198-1695056398
+http://stream.medialink24.net:9191/nat-geo-wild/video.m3u8
 
 
 
@@ -2462,7 +2474,7 @@ http://iptv.mcnbd.com:8080/TSportsHD/index.m3u8?token=c83f5c14b63f68ff08f5bf7371
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Ten 1 HD
 
-http://stream.medialink24.net:9191/sony-ten1/index.m3u8?token=756c79be652d9283386406dcb56fc1e5e79733ad-2ae986f62e8c7d6915ceb7c6124c87dd-1694728293-1694717493
+http://tv.iplex.live:9191/sony-ten-1-hd/index.fmp4.m3u8?token=3189f2ea4b594457847c791ec7c762848b157869-d78a05ffa1d22e5f961bc253c140bd34-1697566029-1697562429
 
 
 
@@ -2470,20 +2482,20 @@ http://stream.medialink24.net:9191/sony-ten1/index.m3u8?token=756c79be652d928338
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", Sony Ten 2 HD
 
-http://stream.medialink24.net:9191/sony-ten2/index.m3u8?token=12af71aa952e11f1f489260395b76bfe8a23e1f6-654d7e3209b562e163b320b494261ce7-1694728310-1694717510
+http://tv.iplex.live:9191/sony-ten-2-hd/index.fmp4.m3u8?token=1e16493625909ab144f3300ce6fe75e21449713c-825600c294cb8d83fd81e01d3798ba98-1697565870-1697562270
 
 
 
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", Sony Ten 3 HD
 
-http://stream.medialink24.net:9191/sony-ten3/index.m3u8?token=1a596cba031573c7bc00235f7f5ee69779ef53b1-7fd3e2a123ebe08f6e843ed423d4771a-1694728319-1694717519
+http://tv.iplex.live:9191/sony-ten-3-hd/index.fmp4.m3u8?token=59395e05531665b332227639b31505102cf3addb-55147afac90aa1a4c00c7547f72387f3-1697565868-1697562268
 
 
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", Sony Ten 4 HD
 
-http://tv.iplex.live:9191/sony-ten-4/index.fmp4.m3u8?token=5a2ec4e223073396a7c93750130afe536023d63d-fbc93611cee5cd4b8a2983bc086ce05b-1693529301-1693525701
+http://tv.iplex.live:9191/sony-ten-4/index.fmp4.m3u8?token=f4dd69fe8dd0d752c08e5dec1833b7e0fe18ed9e-8fbf1e9f4277e4e898e8b6ecd69ef76d-1697565894-1697562294
 
 
 
@@ -2492,7 +2504,7 @@ http://tv.iplex.live:9191/sony-ten-4/index.fmp4.m3u8?token=5a2ec4e223073396a7c93
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png", Sony Ten 5 HD
 
-http://stream.medialink24.net:9191/sony-ten5/index.m3u8?token=9566f2d8d5eeb4af5f80d698ecbe231d5ed802da-ce1290ac095d52f26ac590c571fbc37b-1694728331-1694717531
+http://tv.iplex.live:9191/sony-six-hd/index.fmp4.m3u8?token=71425b1f85a9c2659c816bc08f27e49e8c7d6011-962e8253947daf8e17b73b589f515d35-1697566393-1697562793
 
 
 
