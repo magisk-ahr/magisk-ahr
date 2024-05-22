@@ -57,7 +57,7 @@ https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", BTV
 
-https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
+http://cdn01.palki.tv/live/BTV-M/index.m3u8
 
 
 
@@ -66,14 +66,14 @@ https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://i.postimg.cc/PxdPbgjB/btv-world.jpg", BTV World
 
 
-https://jiu.top10bhaluka.com/ki/bongo/stream.php?id=75
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75", BTV CTG
 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
 
 
 
@@ -81,7 +81,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://i.postimg.cc/J7TH7nQY/1200px-Sangsad-Television-Emblem-svg.png", Sangsad TV
 
-http://xtv.ooo:8080/564587696/474585694/245940
+http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 
 
 
