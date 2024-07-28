@@ -358,7 +358,8 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="»𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵𝗶«~🇧🇩" tvg-logo="https://raw.githubusercontent.com/magisk-ahr/Live-TV/alamin/PlayList/Logo/Bangladeshi/Deepto-TV.png", 𝘿𝙚𝙚𝙥𝙩𝙤 𝙏𝙑
 
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+https://t.ly/deepto-tv
 
 
 
